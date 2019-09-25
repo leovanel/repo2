@@ -3,7 +3,7 @@
 .loupe:hover
 {
     text-align: justify;
-    border : 2px black solid;
+    border : 3px black solid;
     border-radius: 6px;
     box-shadow: 3px 3px 0px grey;
 }
